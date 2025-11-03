@@ -109,9 +109,10 @@
     <header id="header" class="site-header header-scrolled position-fixed text-black bg-light">
       <nav id="header-nav" class="navbar navbar-expand-lg px-3 mb-3">
         <div class="container-fluid">
-          <a class="navbar-brand" href="index.html">
-            <img src="assets/images/main-logo.png" class="logo">
+          <a class="navbar-brand d-flex align-items-center" href="index.html">
+            <span class="fs-4 fw-bold text-primary">Bidnet Auctions</span>
           </a>
+
           <button class="navbar-toggler d-flex d-lg-none order-3 p-2" type="button" data-bs-toggle="offcanvas" data-bs-target="#bdNavbar" aria-controls="bdNavbar" aria-expanded="false" aria-label="Toggle navigation">
             <svg class="navbar-icon">
               <use xlink:href="#navbar-icon"></use>
@@ -127,51 +128,10 @@
             <div class="offcanvas-body">
               <ul id="navbar" class="navbar-nav text-uppercase justify-content-end align-items-center flex-grow-1 pe-3">
                 <li class="nav-item">
-                  <a class="nav-link me-4 active" href="#billboard">Home</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link me-4" href="#company-services">Services</a>
+                  <router-link to="Home" class="nav-link me-4 active" href="#billboard">Home</router-link>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link me-4" href="#mobile-products">Products</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link me-4" href="#smart-watches">Watches</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link me-4" href="#yearly-sale">Sale</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link me-4" href="#latest-blog">Blog</a>
-                </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link me-4 dropdown-toggle link-dark" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Pages</a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <a href="about.html" class="dropdown-item">About</a>
-                    </li>
-                    <li>
-                      <a href="blog.html" class="dropdown-item">Blog</a>
-                    </li>
-                    <li>
-                      <a href="shop.html" class="dropdown-item">Shop</a>
-                    </li>
-                    <li>
-                      <a href="cart.html" class="dropdown-item">Cart</a>
-                    </li>
-                    <li>
-                      <a href="checkout.html" class="dropdown-item">Checkout</a>
-                    </li>
-                    <li>
-                      <a href="single-post.html" class="dropdown-item">Single Post</a>
-                    </li>
-                    <li>
-                      <a href="single-product.html" class="dropdown-item">Single Product</a>
-                    </li>
-                    <li>
-                      <a href="contact.html" class="dropdown-item">Contact</a>
-                    </li>
-                  </ul>
                 </li>
                 <li class="nav-item">
                   <div class="user-items ps-5">
@@ -187,13 +147,6 @@
                         <a href="#">
                           <svg class="user">
                             <use xlink:href="#user"></use>
-                          </svg>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="cart.html">
-                          <svg class="cart">
-                            <use xlink:href="#cart"></use>
                           </svg>
                         </a>
                       </li>
