@@ -128,7 +128,7 @@
             <div class="offcanvas-body">
               <ul id="navbar" class="navbar-nav text-uppercase justify-content-end align-items-center flex-grow-1 pe-3">
                 <li class="nav-item">
-                  <router-link to="Home" class="nav-link me-4 active" href="#billboard">Home</router-link>
+                  <router-link to="/Home" class="nav-link me-4 active" href="#billboard">Home</router-link>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link me-4" href="#mobile-products">Products</a>
@@ -293,7 +293,7 @@
           </div>
           <div class="col-md-4 col-sm-6">
             <div class="copyright">
-              <p>© Copyright 2023 MiniStore. Design by <a href="https://templatesjungle.com/">TemplatesJungle</a> Distribution by <a href="https://themewagon.com">ThemeWagon</a>
+              <p>© Copyright 2025 Bidnet Auctions. Design by <a href="https://templatesjungle.com/">Hasanur Rashid</a>
               </p>
             </div>
           </div>

@@ -7,13 +7,13 @@
               <div class="row d-flex align-items-center">
                 <div class="col-md-6">
                   <div class="banner-content">
-                    <h1 class="display-2 text-uppercase text-dark pb-5">Your Products Are Great.</h1>
-                    <a href="shop.html" class="btn btn-medium btn-dark text-uppercase btn-rounded-none">Shop Product</a>
+                    <h1 class="display-2 text-uppercase text-dark pb-5">Bid Your Desirable Products.</h1>
+                    <a href="shop.html" class="btn btn-medium btn-dark text-uppercase btn-rounded-none">Bid Product</a>
                   </div>
                 </div>
                 <div class="col-md-5">
                   <div class="image-holder">
-                    <img src="assets/images/banner-image.png" alt="banner">
+                    <img src="assets/images/banner4.jpg" alt="banner">
                   </div>
                 </div>
               </div>
@@ -25,7 +25,7 @@
                 <div class="col-md-6">
                   <div class="banner-content">
                     <h1 class="display-2 text-uppercase text-dark pb-5">Technology Hack You Won't Get</h1>
-                    <a href="shop.html" class="btn btn-medium btn-dark text-uppercase btn-rounded-none">Shop Product</a>
+                    <a href="shop.html" class="btn btn-medium btn-dark text-uppercase btn-rounded-none">Bid Product</a>
                   </div>
                 </div>
                 <div class="col-md-5">
@@ -148,7 +148,7 @@
         <div class="col-md-6 col-sm-12">
           <div class="text-content offset-4 padding-medium">
             <h3>10% off</h3>
-            <h2 class="display-2 pb-5 text-uppercase text-dark">New year sale</h2>
+            <h2 class="display-2 pb-5 text-uppercase text-dark">Upcoming New Year Registration</h2>
             <a href="shop.html" class="btn btn-medium btn-dark text-uppercase btn-rounded-none">Shop Sale</a>
           </div>
         </div>
@@ -163,7 +163,7 @@
           <div class="display-header d-flex justify-content-between pb-3">
             <h2 class="display-7 text-dark text-uppercase">Latest Posts</h2>
             <div class="btn-right">
-              <a href="blog.html" class="btn btn-medium btn-normal text-uppercase">Read Blog</a>
+              <a href="blog.html" class="btn btn-medium btn-normal text-uppercase">Read Blogs about Auctions</a>
             </div>
           </div>
           <div class="post-grid d-flex flex-wrap justify-content-between">
@@ -175,11 +175,11 @@
               </div>
               <div class="card-body text-uppercase">
                 <div class="card-meta text-muted">
-                  <span class="meta-date">feb 22, 2023</span>
-                  <span class="meta-category">- Gadgets</span>
+                  <span class="meta-date">feb 22, 2025</span>
+                  <span class="meta-category">- Auction Products</span>
                 </div>
                 <h3 class="card-title">
-                  <a href="#">Get some cool gadgets in 2023</a>
+                  <a href="#">Get some cool Products in 2023</a>
                 </h3>
               </div>
             </div>
